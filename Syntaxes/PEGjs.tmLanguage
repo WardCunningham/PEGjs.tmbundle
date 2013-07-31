@@ -266,16 +266,12 @@
 			<key>end</key>
 			<string>\}</string>
 			<key>name</key>
-			<string>source.js.embedded.pegjs</string>
+			<string>comment.source.js.embedded.pegjs</string>
 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>include</key>
 					<string>#scriptblock</string>
-				</dict>
-				<dict>
-					<key>include</key>
-					<string>source.js</string>
 				</dict>
 			</array>
 		</dict>
